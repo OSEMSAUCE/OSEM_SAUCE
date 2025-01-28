@@ -19,7 +19,7 @@ OSEM🤘🌲 We need contributors to help with:
 - where
 - when
 
-- Please convert the data, whereever possible to [this format]([url](https://docs.google.com/spreadsheets/d/15I3BPr4qg7F1kCcg4otH3S5zu6GxwbSe8KYZwNIvvrw/edit?gid=1328344498#gid=1328344498))
+- Please convert the data, whereever possible to [this format]([https://docs.google.com/spreadsheets/d/15I3BPr4qg7F1kCcg4otH3S5zu6GxwbSe8KYZwNIvvrw/edit?gid=1328344498#gid=1328344498])
 - **ETL (Extract, Transform, Load)**: Process raw data into usable formats for our platforms and databases.
 - **Data preprocessing and cleaning**: Ensure the data is clean, consistent, and ready for public use.
 - **Application development**: Build tools and platforms to distribute, visualize, and manage the reforestation data.
