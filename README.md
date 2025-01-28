@@ -2,7 +2,13 @@
 # OSEM🤘🌲
 ## Open Source Environmental Movement
 
-OSEM is A collaboration of awesome people who want environmental work to be powerful and transparent (not BS). Our main task at hand is making a HUUUUGE f'ing repo of reforestation data because we rocked at tree planting for so long and now we want to give back. Also, it's an awesome idea! If we publish even 5% of reforestation data (who planted what trees where and when), then it would tilt the whole industry towards transparency, which would have a MASSIVE effect on the quality and productivity of reforestation. For real. Right now, if you want ESG funding for reforestation, basically anyone can put up a website with experts and logos and claim to plant trees. But we can fix that by making the world's first sizable open-source reforestation dataset. You can go bananas🍌️🍌️ making visualizations 📊️ and investigations, and the industry will improve immensely with the expectation—requirement even—that reforestation be open source.
+OSEM is about making the environmental field transparent. It's the *evidence* part of evidence based-reasoning. If thats what you're into than you're awesome👍️🌲️.
+
+Our primary task atm is making a f&&@ing huge repo of reforestation data. Tree planting campaigns raise a lot of very good questions which we will answer using an open source database. 
+
+OSEM is founded by former tree planting heavyweights so we're well-positioned to have a big impact here with your help.
+
+If we publish even 5% of reforestation data (who planted what trees where and when), tilt the whole industry towards transparency, which would have a MASSIVE effect on the quality and productivity of reforestation. For real. You can go bananas🍌️🍌️ making visualizations 📊️ and investigations, and the industry will improve immensely with the expectation (requirement) that reforestation and other nature based carbon and offset projects be open source.
 
 **Please join us; there is TONS of work to be done.**
 
