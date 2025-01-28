@@ -28,7 +28,9 @@ Here’s a [sample dataset](#) to show you the structure we’re looking for (Go
 #### 1. **Find Tree Planting Data**
 Governments, NGOs, and organizations often publish tree-planting stats. Some places to start:
 - [Canada Open Data Portal](https://open.canada.ca)
-- Look for government or environmental data portals in your country!
+- Look for government or environmental data portals in any country and search "reforestation"
+<img src="https://github.com/user-attachments/assets/9432163f-cfbf-4716-b328-cc6da2f0a68b" alt="Image description" width="400" />
+
 
 #### 2. **Share or Clean Data**
 - If you have raw tree planting data, upload it to the repository!
