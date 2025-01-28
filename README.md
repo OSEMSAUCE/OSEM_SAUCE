@@ -1,11 +1,29 @@
 # OSEM🤘🌲 
-Home of the open-source environmental ballers 🌲😎
 
-# OSEM🤘🌲: Open Source Environmental Movement
+
+# OSEM🤘🌲: 
+## Open Source Environmental Movement
 
 ## What is OSEM🤘🌲?
 
-OSEM🤘🌲 (Open Source Environmental Movement) is a collaborative initiative dedicated to improving transparency, accountability, and access to reforestation data. Our mission is to ensure reforestation projects are supported by verified, open data that anyone can access, use, and contribute to.
+OSEM🤘🌲 is a collaboration awesome people who want environmental work to be powerful and transparent (not BS). Our main task at hand is making a HUUUUGE f'ing repo of reforestation data, because we rocked at tree planting for so long and now we want to give back.  Also it's an awesome idea!  If we publish even 5% of reforestation data (who planted what trees where and when) then it would tilt the whole industry towards transparency whcih would have a MASSIVE effect on the quality and productivity of reforestation.  For real. right now if you want ESG funding for reforestation baseically anyone can put up a website with experts and logos and claim to plant trees. But we can fix that by making the worlds first, sizable open source reforestation dataset. You can go bananas🍌️🍌️ making visualizations 📊️ and investigations and the industry will improve immensly with the expectation, requirement even, that reforestation be open source.
+
+Please join us, there is TONS of work to be done.
+
+## How Can You Contribute?
+
+OSEM🤘🌲 We need contributors to help with:
+- **Finding and gathering reforestation datasets**: We need large datasets (more min 10 up to 1000 rows of reforestation sites that include
+ - who
+- what 
+- where
+- when
+
+- Please convert the data, whereever possible to [this format]([url](https://docs.google.com/spreadsheets/d/15I3BPr4qg7F1kCcg4otH3S5zu6GxwbSe8KYZwNIvvrw/edit?gid=1328344498#gid=1328344498))
+- **ETL (Extract, Transform, Load)**: Process raw data into usable formats for our platforms and databases.
+- **Data preprocessing and cleaning**: Ensure the data is clean, consistent, and ready for public use.
+- **Application development**: Build tools and platforms to distribute, visualize, and manage the reforestation data.
+- **Community building**: Spread the word, engage new contributors, and help grow the movement.
 
 This movement believes that reforestation data should be as transparent as any other product data in the world. By working together, we aim to:
 - **Distribute open-source reforestation data**: Make accurate, clean, and well-structured environmental data accessible to anyone.
@@ -16,14 +34,6 @@ This movement believes that reforestation data should be as transparent as any o
 
 Reforestation is critical in fighting climate change, yet many companies rely on unverifiable claims, vague reports, or even misleading imagery. This harms both the environment and the trust of those funding reforestation efforts. At OSEM🤘🌲, we believe open, transparent data is the foundation for real accountability and progress.
 
-## How Can You Contribute?
-
-OSEM🤘🌲 is open to anyone passionate about the environment, open-source development, or data transparency. We need contributors to help with:
-- **Finding and gathering reforestation datasets**: Research and collect existing reforestation data.
-- **ETL (Extract, Transform, Load)**: Process raw data into usable formats for our platforms and databases.
-- **Data preprocessing and cleaning**: Ensure the data is clean, consistent, and ready for public use.
-- **Application development**: Build tools and platforms to distribute, visualize, and manage the reforestation data.
-- **Community building**: Spread the word, engage new contributors, and help grow the movement.
 
 Whatever your skills or interests, there’s a way for you to contribute!
 
