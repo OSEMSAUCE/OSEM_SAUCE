@@ -4,7 +4,7 @@
 
 OSEM is about making the environmental field transparent. It's the *evidence* part of evidence based-reasoning. If thats what you're into than you're awesome👍️🌲️.
 
-Our primary task atm is making a f&&@ing huge repo of reforestation data. Tree planting campaigns raise a lot of very good questions which we will answer using an open source database. 
+Our primary task atm is making a huge repo of reforestation data. Tree planting campaigns raise a lot of very good questions which we will answer using an open source database. 
 
 OSEM is founded by former tree planting heavyweights so we're well-positioned to have a big impact here with your help.
 
