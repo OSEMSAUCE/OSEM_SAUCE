@@ -1,18 +1,22 @@
 
-# OSEM🤘🌲
+
+![image](https://github.com/user-attachments/assets/033cc175-5f04-439b-9b92-264650bb012f)
+
+
+# OSEM🤘🏼🌲
 ## Open Source Environmental Movement
 
-OSEM is about making the environmental work transparent. It's about *evidence* based-reasoning, evidence in science, proof and showing your work.
+OSEM is about practical, real-world transparent solutions in the environmental field. 
 
-Our primary task atm is making a huge repo of reforestation data. Tree planting campaigns raise a lot of very good questions which we will answer using an open source database. 
+Our primary task is making a huge open source repo of reforestation data. The bigest in the world by far.
 
 OSEM is founded by former tree planting heavyweights so we're well-positioned to have a big impact here with your help.
 
-If we publish even 5% of reforestation data (who planted what trees where and when), tilt the whole industry towards transparency, which would have a MASSIVE effect on the quality and productivity of reforestation. For real. You can go bananas🍌️🍌️ making visualizations 📊️ and investigations, and the industry will improve immensely with the expectation (requirement) that reforestation and other nature based carbon and offset projects be open source.
+If we publish even 5% of reforestation data (who planted what trees, where, and when), it would tilt the whole industry towards transparency. This would have a MASSIVE effect on the quality and productivity of reforestation. You can go bananas🍌️🍌️ making visualizations 📊️ and investigations, and the industry will improve immensely with the expectation that reforestation, and other nature based and carbon offsets, rise to the high standards of open source.
 
 **Please join us; there is TONS of work to be done.**
 
-## Be OSEM🤘🌲!
+## Be OSEM🤘🏼🌲!
 
 **YOU** or person / org that contributes, is OSEM. Please contribute much-needed reforestation data, or web dev work, and you'll be OSEM🤘🌲 forever we promise. 
 For large disclosures, you can promote your data science or web dev contributions as OSEM.  For real big disclosures we use our sister org - [Ground Truth Forest News](https://groundtruth.app/) to write and promote your work as actual news stories 📢️
